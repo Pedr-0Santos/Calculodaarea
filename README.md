@@ -1,1 +1,1 @@
-Função matematica para medir o raio da circuferencia, pela primeira vez consegui fazer um codigo matematico sem problemas
+Função matematica para medir o raio de um retangulo,pela primeira vez consegui fazer um codigo matematico sem problemas
